@@ -1,7 +1,7 @@
 body{
-    align-items: center;
-    padding-top: 200px;
-    background-repeat: no-repeat;
+align-items: center;
+padding-top: 200px;
+background-repeat: no-repeat;
 background-size: 100%;
 
 }
@@ -15,9 +15,9 @@ text-shadow: 2px 2px 10px rgb(255, 255, 255) ;
 }
 
 .box{
-    border-radius: 5%;
-    align-items: center;
-    margin-left: 44%;
+border-radius: 5%;
+align-items: center;
+margin-left: 44%;
     
 padding: 55px;
 height: 400;
