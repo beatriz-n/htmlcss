@@ -279,11 +279,13 @@ main{
  border: solid 2px;
  padding: 15px;
  border-radius: 8px;
+ opacity: 0.7;
  background-color: white;
  margin-left: 30px;
  margin-right: 30px;
  margin-top: 20px;
 }
+
 body{
  background-color: #e1ede5;
  justify-content:center;
@@ -382,9 +384,8 @@ font-size: 250%;
 .conteudo button{
  margin-top: 10px;
  border:#16863a solid 1px;
- background-color: #faf60c;
+ background-color: #6dbdff;
  font-size: 15;
- border-radius: 4px;
  padding: 5px;
  width: 100px;
  font-style: monospace;
